@@ -2,25 +2,25 @@ import styled from 'styled-components';
 
 export const Container = styled.div`
 .colored:nth-child(1) {
-background: #f1ffe7;
+background: #D7D9D9;
 }
 .colored:nth-child(2) {
-background: #dfffd9;
+background: #617073;
 }
 .colored:nth-child(3) {
-background: #cdfeca;
+background: #E7DECD;
 }
 .colored:nth-child(4) {
-background: #bbfebb;
+background: #FDDDD8;
 }
 .colored:nth-child(5) {
-background: #a9fdac;
+background: #45170D; 
 }
 .colored:nth-child(6) {
-background: #90f29c;
+background: #342825;
 }
 .colored:nth-child(7) {
-background: #77e68c;
+background: #B4C2CF;
 }
 `;
 
