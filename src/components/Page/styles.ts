@@ -24,3 +24,7 @@ background: #B4C2CF;
 }
 `;
 
+export const Spacer = styled.div`
+    height: 15vh;
+`
+
