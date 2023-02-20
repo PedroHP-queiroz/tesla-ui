@@ -21,7 +21,7 @@ const ModelSection: React.FC<Props> = ({
 
   useEffect(() => {
     if(sectionRef.current) {
-      registerModel({ modelName, overlayNode, sectionRef})
+      registerModel({ modelName, overlayNode, sectionRef })
     }
   },[modelName, overlayNode, registerModel])
 
