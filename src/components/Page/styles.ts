@@ -12,7 +12,7 @@ background-size: cover;
 /* Model Y */
 background-image: url(https://tesla-cdn.thron.com/delivery/public/image/tesla/dfa1ee09-8585-422e-a32a-067e14159aa0/bvlatuR/std/2880x2400/Homepage-Model-Y-Global-Desktop?quality=auto-medium&amp;format=auto);
 background-size: cover;
-background-position: 0%;
+background-position: center;
 }
 .colored:nth-child(3) {
 /* background: #E7DECD; */
